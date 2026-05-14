@@ -1,0 +1,10 @@
+phone_URL : [https://vdo.ninja/?room=우리집통화&push=phone&view=pi&autostart](https://vdo.ninja/?room=우리집통화&push=phone&view=pi&autostart)
+
+
+pi_URL: [https://vdo.ninja/?room=우리집통화&push=pi&view=phone&autostart](https://vdo.ninja/?room=우리집통화&push=pi&view=phone&autostart)
+
+para:
+    room=우리집통화: 두 기기를 같은 가상 대화방으로 묶습니다.
+    push=ID: 내 영상을 송출할 때 사용할 이름입니다.
+    view=ID: 상대방의 영상을 화면에 띄웁니다.
+    autostart: 접속 즉시 카메라와 마이크를 활성화합니다.
